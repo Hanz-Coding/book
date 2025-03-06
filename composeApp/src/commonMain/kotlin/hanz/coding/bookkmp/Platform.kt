@@ -1,7 +1,0 @@
-package hanz.coding.bookkmp
-
-interface Platform {
-    val name: String
-}
-
-expect fun getPlatform(): Platform
